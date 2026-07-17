@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /downloads/
+
+Sitemap: https://nepscan.dipeshbham.com.np/sitemap.xml
